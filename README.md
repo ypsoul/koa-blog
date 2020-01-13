@@ -1,3 +1,5 @@
+<p>这是github拷贝的一份，正好与我学习的视频相关联，虽然不是一套的。所以先下下来了，之后慢慢啃</p>
+
 <p align="center"><a href="http://www.boblog.com" target="_blank" rel="noopener noreferrer"><img width="234" src="http://images.boblog.com/BOBLOG-03.png" alt="logo"></a></p>
 
 ## 一、这是个什么的项目？
